@@ -1,0 +1,20 @@
+<html>
+<head>
+	<title>FOSP practical-Lab#1</title>
+</head>
+<body>
+	<h1>Free and Open source Programming(FOSP)</h1>
+	<p><b>Course Objective:</b> To provide nasic concept of 'Free and Open Source Programming'and its application</p>
+	<ol>
+	<li>Free and open source software (FOSS) an Overview</li>
+	<li>Classification of Free and Open Open source Software</li>
+	<li>Licensing</li>
+	<li>Web basic</li>
+	<li>Web development with HTML & DHTML</li>
+	<li>Introduction to javascript</li>
+	<li>Open Source Programming with PHP</li>
+	<li>Database Connectivity in PHP</li>
+	<li>Session and Cookies</li>
+	</ol>
+</body>
+</html>
